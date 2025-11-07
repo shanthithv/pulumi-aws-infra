@@ -1,7 +1,7 @@
 {
   "name": "pulumi-aws-infra",
   "dependencies": {
-    "@pulumi/pulumi": "^3.0.0",
-    "@pulumi/aws": "^6.0.0"
+    "@pulumi/aws": "^6.83.1",
+    "@pulumi/pulumi": "^3.206.0"
   }
 }
